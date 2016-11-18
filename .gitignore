@@ -3,3 +3,4 @@ project.lock.json
 *.xproj.user
 [bB]in/
 [oO]bj/
+launchsettings.json
