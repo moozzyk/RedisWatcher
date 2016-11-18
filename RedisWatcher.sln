@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RedisWatcher", "RedisWatcher\RedisWatcher.xproj", "{0D7C41EA-2453-4D86-BB6B-DFF8EFD30567}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RedisWatcher", "src\RedisWatcher\RedisWatcher.xproj", "{0D7C41EA-2453-4D86-BB6B-DFF8EFD30567}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
